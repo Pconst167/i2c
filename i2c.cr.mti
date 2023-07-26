@@ -1,0 +1,22 @@
+/home/pconst/Desktop/i2c/i2c.sv {1 {vlog -work work -vopt -sv -stats=none /home/pconst/Desktop/i2c/i2c.sv
+Questa Intel Starter FPGA Edition-64 vlog 2022.1 Compiler 2022.01 Jan 29 2022
+-- Compiling module i2c
+
+Top level modules:
+	i2c
+
+} {} {}} /home/pconst/Desktop/i2c/i2c_slave.sv {1 {vlog -work work -vopt -sv -stats=none /home/pconst/Desktop/i2c/i2c_slave.sv
+Questa Intel Starter FPGA Edition-64 vlog 2022.1 Compiler 2022.01 Jan 29 2022
+-- Compiling module i2c_slave
+
+Top level modules:
+	i2c_slave
+
+} {} {}} /home/pconst/Desktop/i2c/i2c_master.sv {1 {vlog -work work -vopt -sv -stats=none /home/pconst/Desktop/i2c/i2c_master.sv
+Questa Intel Starter FPGA Edition-64 vlog 2022.1 Compiler 2022.01 Jan 29 2022
+-- Compiling module i2c_master
+
+Top level modules:
+	i2c_master
+
+} {} {}}

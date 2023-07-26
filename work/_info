@@ -1,0 +1,121 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+!s11f vlog 2022.1 2022.01, Jan 29 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/pconst
+T_opt
+!s110 1690337022
+VnNN:M@g9@SL72W=i2Na4R2
+04 9 4 work testbench fast 0
+=5-000ae431a4f1-64c07efe-3a44-baae
+R0
+!s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2022.1;75
+vi2c
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1690336682
+!i10b 1
+!s100 2HQiiPP4naV1R1Tkg?IN43
+IcM2=OOkGIbV3aI:5Z`E[P2
+S1
+Z4 d/home/pconst/Desktop/i2c
+Z5 w1690335954
+8/home/pconst/Desktop/i2c/i2c.sv
+F/home/pconst/Desktop/i2c/i2c.sv
+!i122 6
+Z6 L0 1 9
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2022.1;75
+r1
+!s85 0
+31
+Z9 !s108 1690336682.000000
+!s107 /home/pconst/Desktop/i2c/i2c.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/pconst/Desktop/i2c/i2c.sv|
+!i113 0
+Z10 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vi2c_master
+R2
+R3
+!i10b 1
+!s100 LH?ObAVMUiWNdej^omPnH0
+Ijn]kNi7m8P82oi9ZbX=eK0
+S1
+R4
+w1690336237
+8/home/pconst/Desktop/i2c/i2c_master.sv
+F/home/pconst/Desktop/i2c/i2c_master.sv
+!i122 8
+L0 1 83
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 /home/pconst/Desktop/i2c/i2c_master.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/pconst/Desktop/i2c/i2c_master.sv|
+!i113 0
+R10
+R1
+vi2c_slave
+R2
+R3
+!i10b 1
+!s100 z^PEHzolimI^>IHP0cTY20
+IjUTYBM;M@>?WSdQ85AJea1
+S1
+R4
+R5
+8/home/pconst/Desktop/i2c/i2c_slave.sv
+F/home/pconst/Desktop/i2c/i2c_slave.sv
+!i122 5
+R6
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 /home/pconst/Desktop/i2c/i2c_slave.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/pconst/Desktop/i2c/i2c_slave.sv|
+!i113 0
+R10
+R1
+vtestbench
+R2
+!s110 1690337018
+!i10b 1
+!s100 oIje7Rj>CDAjFAP]n_gHR2
+Icbb_c2j?3:N2REO8Boo`@1
+S1
+R4
+w1690337015
+8/home/pconst/Desktop/i2c/testbench.sv
+F/home/pconst/Desktop/i2c/testbench.sv
+!i122 10
+L0 1 31
+R7
+R8
+r1
+!s85 0
+31
+!s108 1690337018.000000
+!s107 /home/pconst/Desktop/i2c/testbench.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/pconst/Desktop/i2c/testbench.sv|
+!i113 0
+R10
+R1
